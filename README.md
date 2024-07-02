@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# Code with GitHub Copilot
+# Code with GitHub Copilo
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and CodeSpaces._
 
